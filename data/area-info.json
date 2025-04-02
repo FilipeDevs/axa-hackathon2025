@@ -1,0 +1,1732 @@
+[
+  {
+    "id": 1,
+    "town": "Brussels",
+    "temperatureUnit": "Celsius",
+    "annualTemperatureAverageList": [
+      {
+        "year": 1947,
+        "temperatureMin": "9.9",
+        "temperatureMax": "13.4"
+      },
+      {
+        "year": 1948,
+        "temperatureMin": "10.4",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1949,
+        "temperatureMin": "10.3",
+        "temperatureMax": "13.7"
+      },
+      {
+        "year": 1950,
+        "temperatureMin": "10.6",
+        "temperatureMax": "12.4"
+      },
+      {
+        "year": 1951,
+        "temperatureMin": "9.9",
+        "temperatureMax": "12.5"
+      },
+      {
+        "year": 1952,
+        "temperatureMin": "10.5",
+        "temperatureMax": "12"
+      },
+      {
+        "year": 1953,
+        "temperatureMin": "10.4",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1954,
+        "temperatureMin": "10.6",
+        "temperatureMax": "11.7"
+      },
+      {
+        "year": 1955,
+        "temperatureMin": "10.5",
+        "temperatureMax": "11.9"
+      },
+      {
+        "year": 1956,
+        "temperatureMin": "10.4",
+        "temperatureMax": "11"
+      },
+      {
+        "year": 1957,
+        "temperatureMin": "10.6",
+        "temperatureMax": "12.8"
+      },
+      {
+        "year": 1958,
+        "temperatureMin": "10.6",
+        "temperatureMax": "12.1"
+      },
+      {
+        "year": 1959,
+        "temperatureMin": "10.7",
+        "temperatureMax": "14.2"
+      },
+      {
+        "year": 1960,
+        "temperatureMin": "10.7",
+        "temperatureMax": "12.3"
+      },
+      {
+        "year": 1961,
+        "temperatureMin": "11",
+        "temperatureMax": "13.2"
+      },
+      {
+        "year": 1962,
+        "temperatureMin": "10.6",
+        "temperatureMax": "11.3"
+      },
+      {
+        "year": 1963,
+        "temperatureMin": "9.8",
+        "temperatureMax": "11"
+      },
+      {
+        "year": 1964,
+        "temperatureMin": "10.7",
+        "temperatureMax": "12.5"
+      },
+      {
+        "year": 1965,
+        "temperatureMin": "11",
+        "temperatureMax": "11.7"
+      },
+      {
+        "year": 1966,
+        "temperatureMin": "11.2",
+        "temperatureMax": "12.9"
+      },
+      {
+        "year": 1967,
+        "temperatureMin": "11.2",
+        "temperatureMax": "13.2"
+      },
+      {
+        "year": 1968,
+        "temperatureMin": "9.9",
+        "temperatureMax": "12"
+      },
+      {
+        "year": 1969,
+        "temperatureMin": "10",
+        "temperatureMax": "12.7"
+      },
+      {
+        "year": 1970,
+        "temperatureMin": "9.7",
+        "temperatureMax": "12.3"
+      },
+      {
+        "year": 1971,
+        "temperatureMin": "10.5",
+        "temperatureMax": "13.4"
+      },
+      {
+        "year": 1972,
+        "temperatureMin": "10.1",
+        "temperatureMax": "12.4"
+      },
+      {
+        "year": 1973,
+        "temperatureMin": "11.2",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1974,
+        "temperatureMin": "10.8",
+        "temperatureMax": "12.9"
+      },
+      {
+        "year": 1975,
+        "temperatureMin": "10.3",
+        "temperatureMax": "13"
+      },
+      {
+        "year": 1976,
+        "temperatureMin": "9.6",
+        "temperatureMax": "13.5"
+      },
+      {
+        "year": 1977,
+        "temperatureMin": "9.7",
+        "temperatureMax": "12.4"
+      },
+      {
+        "year": 1978,
+        "temperatureMin": "9.7",
+        "temperatureMax": "11.4"
+      },
+      {
+        "year": 1979,
+        "temperatureMin": "9.3",
+        "temperatureMax": "11.6"
+      },
+      {
+        "year": 1980,
+        "temperatureMin": "10",
+        "temperatureMax": "11.3"
+      },
+      {
+        "year": 1981,
+        "temperatureMin": "10.3",
+        "temperatureMax": "12.1"
+      },
+      {
+        "year": 1982,
+        "temperatureMin": "9.8",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1983,
+        "temperatureMin": "10.3",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1984,
+        "temperatureMin": "10.6",
+        "temperatureMax": "11.9"
+      },
+      {
+        "year": 1985,
+        "temperatureMin": "10.1",
+        "temperatureMax": "11.3"
+      },
+      {
+        "year": 1986,
+        "temperatureMin": "10.8",
+        "temperatureMax": "11.8"
+      },
+      {
+        "year": 1987,
+        "temperatureMin": "10.9",
+        "temperatureMax": "11.3"
+      },
+      {
+        "year": 1988,
+        "temperatureMin": "10.5",
+        "temperatureMax": "12.7"
+      },
+      {
+        "year": 1989,
+        "temperatureMin": "11.2",
+        "temperatureMax": "13.7"
+      },
+      {
+        "year": 1990,
+        "temperatureMin": "10.6",
+        "temperatureMax": "13.9"
+      },
+      {
+        "year": 1991,
+        "temperatureMin": "11.8",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1992,
+        "temperatureMin": "11.4",
+        "temperatureMax": "13.6"
+      },
+      {
+        "year": 1993,
+        "temperatureMin": "11.5",
+        "temperatureMax": "12.9"
+      },
+      {
+        "year": 1994,
+        "temperatureMin": "10.4",
+        "temperatureMax": "14.1"
+      },
+      {
+        "year": 1995,
+        "temperatureMin": "10",
+        "temperatureMax": "13.7"
+      },
+      {
+        "year": 1996,
+        "temperatureMin": "10.2",
+        "temperatureMax": "11.9"
+      },
+      {
+        "year": 1997,
+        "temperatureMin": "10.5",
+        "temperatureMax": "13.8"
+      },
+      {
+        "year": 1998,
+        "temperatureMin": "9.7",
+        "temperatureMax": "13.1"
+      },
+      {
+        "year": 1999,
+        "temperatureMin": "11.3",
+        "temperatureMax": "13.8"
+      },
+      {
+        "year": 2000,
+        "temperatureMin": "9.2",
+        "temperatureMax": "13.9"
+      },
+      {
+        "year": 2001,
+        "temperatureMin": "9.6",
+        "temperatureMax": "13.5"
+      },
+      {
+        "year": 2002,
+        "temperatureMin": "10.1",
+        "temperatureMax": "14"
+      },
+      {
+        "year": 2003,
+        "temperatureMin": "10.7",
+        "temperatureMax": "14.9"
+      },
+      {
+        "year": 2004,
+        "temperatureMin": "10.3",
+        "temperatureMax": "13.2"
+      },
+      {
+        "year": 2005,
+        "temperatureMin": "11.1",
+        "temperatureMax": "13.7"
+      },
+      {
+        "year": 2006,
+        "temperatureMin": "9.9",
+        "temperatureMax": "14.1"
+      },
+      {
+        "year": 2007,
+        "temperatureMin": "10.1",
+        "temperatureMax": "14.5"
+      },
+      {
+        "year": 2008,
+        "temperatureMin": "10.1",
+        "temperatureMax": "13.6"
+      },
+      {
+        "year": 2009,
+        "temperatureMin": "9.9",
+        "temperatureMax": "14"
+      },
+      {
+        "year": 2010,
+        "temperatureMin": "10.3",
+        "temperatureMax": "12.5"
+      },
+      {
+        "year": 2011,
+        "temperatureMin": "9.9",
+        "temperatureMax": "14.9"
+      },
+      {
+        "year": 2012,
+        "temperatureMin": "10.3",
+        "temperatureMax": "13.7"
+      },
+      {
+        "year": 2013,
+        "temperatureMin": "10",
+        "temperatureMax": "12.8"
+      },
+      {
+        "year": 2014,
+        "temperatureMin": "9.6",
+        "temperatureMax": "14.8"
+      },
+      {
+        "year": 2015,
+        "temperatureMin": "9.8",
+        "temperatureMax": "14.4"
+      },
+      {
+        "year": 2016,
+        "temperatureMin": "9.6",
+        "temperatureMax": "13.8"
+      },
+      {
+        "year": 2017,
+        "temperatureMin": "10",
+        "temperatureMax": "14.3"
+      },
+      {
+        "year": 2018,
+        "temperatureMin": "9.4",
+        "temperatureMax": "15.5"
+      },
+      {
+        "year": 2019,
+        "temperatureMin": "10",
+        "temperatureMax": "14.9"
+      },
+      {
+        "year": 2020,
+        "temperatureMin": "9.9",
+        "temperatureMax": "15.3"
+      },
+      {
+        "year": 2021,
+        "temperatureMin": "10.4",
+        "temperatureMax": "13.3"
+      }
+    ],
+    "windUnit": "m/s",
+    "annualWindAverageList": [
+      {
+        "year": 2000,
+        "speed": "4.2"
+      },
+      {
+        "year": 2001,
+        "speed": "4.3"
+      },
+      {
+        "year": 2002,
+        "speed": "4"
+      },
+      {
+        "year": 2003,
+        "speed": "3.9"
+      },
+      {
+        "year": 2004,
+        "speed": "3.6"
+      },
+      {
+        "year": 2005,
+        "speed": "4"
+      },
+      {
+        "year": 2006,
+        "speed": "3.6"
+      },
+      {
+        "year": 2007,
+        "speed": "4.2"
+      },
+      {
+        "year": 2008,
+        "speed": "4.4"
+      },
+      {
+        "year": 2009,
+        "speed": "4.2"
+      },
+      {
+        "year": 2010,
+        "speed": "4.1"
+      },
+      {
+        "year": 2011,
+        "speed": "3.4"
+      },
+      {
+        "year": 2012,
+        "speed": "3.8"
+      },
+      {
+        "year": 2013,
+        "speed": "4.4"
+      },
+      {
+        "year": 2014,
+        "speed": "3.9"
+      },
+      {
+        "year": 2015,
+        "speed": "3"
+      },
+      {
+        "year": 2016,
+        "speed": "4.2"
+      },
+      {
+        "year": 2017,
+        "speed": "3.7"
+      },
+      {
+        "year": 2018,
+        "speed": "3.1"
+      },
+      {
+        "year": 2019,
+        "speed": "3.2"
+      },
+      {
+        "year": 2020,
+        "speed": "3.7"
+      },
+      {
+        "year": 2021,
+        "speed": "3.6"
+      }
+    ],
+    "rainMaxAverage": "81",
+    "seismicArea": "2.8",
+    "airQuality": "45.3",
+    "tornados": false,
+    "hurricanArea": false,
+    "tropicalStorm": false,
+    "lakeOrRiverNearby": false,
+    "seaNearby": false,
+    "location": {
+      "forest": false,
+      "urban": true,
+      "industrialCompound": true
+    }
+  },
+  {
+    "id": 2,
+    "town": "Tokyo",
+    "temperatureUnit": "Celsius",
+    "annualTemperatureAverageList": [
+      {
+        "year": 1942,
+        "temperatureMin": "3",
+        "temperatureMax": "8.3"
+      },
+      {
+        "year": 1943,
+        "temperatureMin": "3.9",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 1944,
+        "temperatureMin": "3",
+        "temperatureMax": "8.5"
+      },
+      {
+        "year": 1945,
+        "temperatureMin": "2.7",
+        "temperatureMax": "8"
+      },
+      {
+        "year": 1946,
+        "temperatureMin": "3.9",
+        "temperatureMax": "9.7"
+      },
+      {
+        "year": 1947,
+        "temperatureMin": "3.2",
+        "temperatureMax": "8.7"
+      },
+      {
+        "year": 1948,
+        "temperatureMin": "4.8",
+        "temperatureMax": "10.6"
+      },
+      {
+        "year": 1949,
+        "temperatureMin": "3.8",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1950,
+        "temperatureMin": "4.2",
+        "temperatureMax": "10.1"
+      },
+      {
+        "year": 1951,
+        "temperatureMin": "3.8",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 1952,
+        "temperatureMin": "2.9",
+        "temperatureMax": "8.8"
+      },
+      {
+        "year": 1953,
+        "temperatureMin": "3.1",
+        "temperatureMax": "8.4"
+      },
+      {
+        "year": 1954,
+        "temperatureMin": "3.1",
+        "temperatureMax": "8.5"
+      },
+      {
+        "year": 1955,
+        "temperatureMin": "4.3",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1956,
+        "temperatureMin": "3.7",
+        "temperatureMax": "9"
+      },
+      {
+        "year": 1957,
+        "temperatureMin": "4.1",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 1958,
+        "temperatureMin": "4.1",
+        "temperatureMax": "9.7"
+      },
+      {
+        "year": 1959,
+        "temperatureMin": "4.3",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1960,
+        "temperatureMin": "3.4",
+        "temperatureMax": "9"
+      },
+      {
+        "year": 1961,
+        "temperatureMin": "4.7",
+        "temperatureMax": "10.1"
+      },
+      {
+        "year": 1962,
+        "temperatureMin": "4.1",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1963,
+        "temperatureMin": "4.5",
+        "temperatureMax": "9.8"
+      },
+      {
+        "year": 1964,
+        "temperatureMin": "3.1",
+        "temperatureMax": "8.9"
+      },
+      {
+        "year": 1965,
+        "temperatureMin": "3.3",
+        "temperatureMax": "9"
+      },
+      {
+        "year": 1966,
+        "temperatureMin": "3.2",
+        "temperatureMax": "8.8"
+      },
+      {
+        "year": 1967,
+        "temperatureMin": "3.4",
+        "temperatureMax": "9.3"
+      },
+      {
+        "year": 1968,
+        "temperatureMin": "4.6",
+        "temperatureMax": "10"
+      },
+      {
+        "year": 1969,
+        "temperatureMin": "2.4",
+        "temperatureMax": "7.8"
+      },
+      {
+        "year": 1970,
+        "temperatureMin": "3.4",
+        "temperatureMax": "9.1"
+      },
+      {
+        "year": 1971,
+        "temperatureMin": "3.2",
+        "temperatureMax": "8.5"
+      },
+      {
+        "year": 1972,
+        "temperatureMin": "4",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1973,
+        "temperatureMin": "4",
+        "temperatureMax": "9.3"
+      },
+      {
+        "year": 1974,
+        "temperatureMin": "3.6",
+        "temperatureMax": "8.7"
+      },
+      {
+        "year": 1975,
+        "temperatureMin": "4",
+        "temperatureMax": "9.1"
+      },
+      {
+        "year": 1976,
+        "temperatureMin": "3.9",
+        "temperatureMax": "8.8"
+      },
+      {
+        "year": 1977,
+        "temperatureMin": "3.6",
+        "temperatureMax": "9.2"
+      },
+      {
+        "year": 1978,
+        "temperatureMin": "3.9",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 1979,
+        "temperatureMin": "3.7",
+        "temperatureMax": "9.1"
+      },
+      {
+        "year": 1980,
+        "temperatureMin": "3.4",
+        "temperatureMax": "8.6"
+      },
+      {
+        "year": 1981,
+        "temperatureMin": "3.8",
+        "temperatureMax": "8.7"
+      },
+      {
+        "year": 1982,
+        "temperatureMin": "4.3",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 1983,
+        "temperatureMin": "3.3",
+        "temperatureMax": "8.4"
+      },
+      {
+        "year": 1984,
+        "temperatureMin": "3.8",
+        "temperatureMax": "8.9"
+      },
+      {
+        "year": 1985,
+        "temperatureMin": "3.5",
+        "temperatureMax": "8.6"
+      },
+      {
+        "year": 1986,
+        "temperatureMin": "3.1",
+        "temperatureMax": "8.3"
+      },
+      {
+        "year": 1987,
+        "temperatureMin": "3.6",
+        "temperatureMax": "8.7"
+      },
+      {
+        "year": 1988,
+        "temperatureMin": "3.6",
+        "temperatureMax": "8.7"
+      },
+      {
+        "year": 1989,
+        "temperatureMin": "4.9",
+        "temperatureMax": "10"
+      },
+      {
+        "year": 1990,
+        "temperatureMin": "5.6",
+        "temperatureMax": "10.8"
+      },
+      {
+        "year": 1991,
+        "temperatureMin": "4.8",
+        "temperatureMax": "9.8"
+      },
+      {
+        "year": 1992,
+        "temperatureMin": "4.2",
+        "temperatureMax": "9.2"
+      },
+      {
+        "year": 1993,
+        "temperatureMin": "4.2",
+        "temperatureMax": "9"
+      },
+      {
+        "year": 1994,
+        "temperatureMin": "4.8",
+        "temperatureMax": "9.8"
+      },
+      {
+        "year": 1995,
+        "temperatureMin": "5.1",
+        "temperatureMax": "10"
+      },
+      {
+        "year": 1996,
+        "temperatureMin": "3.7",
+        "temperatureMax": "8.8"
+      },
+      {
+        "year": 1997,
+        "temperatureMin": "4.4",
+        "temperatureMax": "9.3"
+      },
+      {
+        "year": 1998,
+        "temperatureMin": "4",
+        "temperatureMax": "9.3"
+      },
+      {
+        "year": 1999,
+        "temperatureMin": "4.4",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 2000,
+        "temperatureMin": "4.2",
+        "temperatureMax": "9.3"
+      },
+      {
+        "year": 2001,
+        "temperatureMin": "3.5",
+        "temperatureMax": "8.6"
+      },
+      {
+        "year": 2002,
+        "temperatureMin": "4.5",
+        "temperatureMax": "9.7"
+      },
+      {
+        "year": 2003,
+        "temperatureMin": "4.2",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 2004,
+        "temperatureMin": "5.1",
+        "temperatureMax": "10.4"
+      },
+      {
+        "year": 2005,
+        "temperatureMin": "4.6",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 2006,
+        "temperatureMin": "4.5",
+        "temperatureMax": "9.7"
+      },
+      {
+        "year": 2007,
+        "temperatureMin": "4.9",
+        "temperatureMax": "9.7"
+      },
+      {
+        "year": 2008,
+        "temperatureMin": "4.4",
+        "temperatureMax": "9.9"
+      },
+      {
+        "year": 2009,
+        "temperatureMin": "4.4",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 2010,
+        "temperatureMin": "5",
+        "temperatureMax": "10.1"
+      },
+      {
+        "year": 2011,
+        "temperatureMin": "4.8",
+        "temperatureMax": "9.9"
+      },
+      {
+        "year": 2012,
+        "temperatureMin": "4.3",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 2013,
+        "temperatureMin": "4.8",
+        "temperatureMax": "9.9"
+      },
+      {
+        "year": 2014,
+        "temperatureMin": "4.5",
+        "temperatureMax": "9.9"
+      },
+      {
+        "year": 2015,
+        "temperatureMin": "5.3",
+        "temperatureMax": "10.3"
+      },
+      {
+        "year": 2016,
+        "temperatureMin": "4.3",
+        "temperatureMax": "9.4"
+      },
+      {
+        "year": 2017,
+        "temperatureMin": "4.4",
+        "temperatureMax": "9.6"
+      },
+      {
+        "year": 2018,
+        "temperatureMin": "4.8",
+        "temperatureMax": "10"
+      },
+      {
+        "year": 2019,
+        "temperatureMin": "4.8",
+        "temperatureMax": "10.3"
+      },
+      {
+        "year": 2020,
+        "temperatureMin": "5.1",
+        "temperatureMax": "10.1"
+      },
+      {
+        "year": 2021,
+        "temperatureMin": "5.3",
+        "temperatureMax": "11"
+      }
+    ],
+    "windUnit": "m/s",
+    "annualWindAverageList": [
+      {
+        "year": 1951,
+        "speed": "5.1"
+      },
+      {
+        "year": 1952,
+        "speed": "5"
+      },
+      {
+        "year": 1953,
+        "speed": "5"
+      },
+      {
+        "year": 1954,
+        "speed": "4.8"
+      },
+      {
+        "year": 1955,
+        "speed": "5.5"
+      },
+      {
+        "year": 1956,
+        "speed": "5.2"
+      },
+      {
+        "year": 1957,
+        "speed": "5"
+      },
+      {
+        "year": 1958,
+        "speed": "5.1"
+      },
+      {
+        "year": 1959,
+        "speed": "4.8"
+      },
+      {
+        "year": 1960,
+        "speed": "5"
+      },
+      {
+        "year": 1961,
+        "speed": "4.6"
+      },
+      {
+        "year": 1962,
+        "speed": "4.3"
+      },
+      {
+        "year": 1963,
+        "speed": "4.3"
+      },
+      {
+        "year": 1964,
+        "speed": "4.1"
+      },
+      {
+        "year": 1965,
+        "speed": "4.3"
+      },
+      {
+        "year": 1966,
+        "speed": "4.6"
+      },
+      {
+        "year": 1967,
+        "speed": "4.1"
+      },
+      {
+        "year": 1968,
+        "speed": "5"
+      },
+      {
+        "year": 1969,
+        "speed": "5.6"
+      },
+      {
+        "year": 1970,
+        "speed": "5.6"
+      },
+      {
+        "year": 1971,
+        "speed": "5.6"
+      },
+      {
+        "year": 1972,
+        "speed": "6.2"
+      },
+      {
+        "year": 1973,
+        "speed": "5.3"
+      },
+      {
+        "year": 1974,
+        "speed": "5"
+      },
+      {
+        "year": 1975,
+        "speed": "4.6"
+      },
+      {
+        "year": 1976,
+        "speed": "5"
+      },
+      {
+        "year": 1977,
+        "speed": "4.8"
+      },
+      {
+        "year": 1978,
+        "speed": "4.5"
+      },
+      {
+        "year": 1979,
+        "speed": "4.6"
+      },
+      {
+        "year": 1980,
+        "speed": "4.5"
+      },
+      {
+        "year": 1981,
+        "speed": "4.9"
+      },
+      {
+        "year": 1982,
+        "speed": "4.6"
+      },
+      {
+        "year": 1983,
+        "speed": "4.5"
+      },
+      {
+        "year": 1984,
+        "speed": "4.6"
+      },
+      {
+        "year": 1985,
+        "speed": "4.3"
+      },
+      {
+        "year": 1986,
+        "speed": "4.7"
+      },
+      {
+        "year": 1987,
+        "speed": "4.6"
+      },
+      {
+        "year": 1988,
+        "speed": "4.3"
+      },
+      {
+        "year": 1989,
+        "speed": "4.4"
+      },
+      {
+        "year": 1990,
+        "speed": "4.3"
+      },
+      {
+        "year": 1991,
+        "speed": "4.5"
+      },
+      {
+        "year": 1992,
+        "speed": "4.5"
+      },
+      {
+        "year": 1993,
+        "speed": "4.5"
+      },
+      {
+        "year": 1994,
+        "speed": "4.7"
+      },
+      {
+        "year": 1995,
+        "speed": "4.4"
+      },
+      {
+        "year": 1996,
+        "speed": "4.4"
+      },
+      {
+        "year": 1997,
+        "speed": "4.5"
+      },
+      {
+        "year": 1998,
+        "speed": "4.6"
+      },
+      {
+        "year": 1999,
+        "speed": "4.6"
+      },
+      {
+        "year": 2000,
+        "speed": "4.3"
+      },
+      {
+        "year": 2001,
+        "speed": "4.7"
+      },
+      {
+        "year": 2002,
+        "speed": "4.5"
+      },
+      {
+        "year": 2003,
+        "speed": "4.4"
+      },
+      {
+        "year": 2004,
+        "speed": "4.9"
+      },
+      {
+        "year": 2005,
+        "speed": "4.7"
+      },
+      {
+        "year": 2006,
+        "speed": "4.4"
+      },
+      {
+        "year": 2007,
+        "speed": "4.3"
+      },
+      {
+        "year": 2008,
+        "speed": "4.2"
+      },
+      {
+        "year": 2009,
+        "speed": "4.4"
+      },
+      {
+        "year": 2010,
+        "speed": "4.4"
+      },
+      {
+        "year": 2011,
+        "speed": "4.5"
+      },
+      {
+        "year": 2012,
+        "speed": "4.5"
+      },
+      {
+        "year": 2013,
+        "speed": "4.8"
+      },
+      {
+        "year": 2014,
+        "speed": "4.8"
+      },
+      {
+        "year": 2015,
+        "speed": "4.9"
+      },
+      {
+        "year": 2016,
+        "speed": "4.7"
+      },
+      {
+        "year": 2017,
+        "speed": "4.8"
+      },
+      {
+        "year": 2018,
+        "speed": "4.8"
+      },
+      {
+        "year": 2019,
+        "speed": "4.7"
+      },
+      {
+        "year": 2020,
+        "speed": "4.8"
+      },
+      {
+        "year": 2021,
+        "speed": "4.8"
+      }
+    ],
+    "rainMaxAverage": "75",
+    "seismicArea": "9",
+    "airQuality": "36.6",
+    "tornados": true,
+    "hurricanArea": true,
+    "tropicalStorm": true,
+    "lakeOrRiverNearby": true,
+    "seaNearby": true,
+    "location": {
+      "forest": false,
+      "urban": true,
+      "industrialCompound": true
+    }
+  },
+  {
+    "id": 3,
+    "town": "New York",
+    "temperatureUnit": "Celsius",
+    "annualTemperatureAverageList": [
+      {
+        "year": 2002,
+        "temperatureMin": "21.2",
+        "temperatureMax": "26.0"
+      },
+      {
+        "year": 2003,
+        "temperatureMin": "20.8",
+        "temperatureMax": "22.3"
+      },
+      {
+        "year": 2004,
+        "temperatureMin": "20.8",
+        "temperatureMax": "23.7"
+      },
+      {
+        "year": 2005,
+        "temperatureMin": "22.8",
+        "temperatureMax": "25.1"
+      },
+      {
+        "year": 2006,
+        "temperatureMin": "21.8",
+        "temperatureMax": "26.1"
+      },
+      {
+        "year": 2007,
+        "temperatureMin": "20.8",
+        "temperatureMax": "24.5"
+      },
+      {
+        "year": 2008,
+        "temperatureMin": "20.8",
+        "temperatureMax": "25.0"
+      },
+      {
+        "year": 2009,
+        "temperatureMin": "21.8",
+        "temperatureMax": "23.1"
+      },
+      {
+        "year": 2010,
+        "temperatureMin": "24.8",
+        "temperatureMax": "26.1"
+      },
+      {
+        "year": 2011,
+        "temperatureMin": "21.9",
+        "temperatureMax": "25.8"
+      },
+      {
+        "year": 2012,
+        "temperatureMin": "24.8",
+        "temperatureMax": "26.5"
+      },
+      {
+        "year": 2013,
+        "temperatureMin": "19.8",
+        "temperatureMax": "24.4"
+      },
+      {
+        "year": 2014,
+        "temperatureMin": "19.8",
+        "temperatureMax": "23.7"
+      },
+      {
+        "year": 2015,
+        "temperatureMin": "18.9",
+        "temperatureMax": "26.3"
+      },
+      {
+        "year": 2016,
+        "temperatureMin": "18.8",
+        "temperatureMax": "26.8"
+      },
+      {
+        "year": 2017,
+        "temperatureMin": "18.8",
+        "temperatureMax": "25.4"
+      },
+      {
+        "year": 2018,
+        "temperatureMin": "22.8",
+        "temperatureMax": "24.8"
+      },
+      {
+        "year": 2019,
+        "temperatureMin": "21.8",
+        "temperatureMax": "24.7"
+      },
+      {
+        "year": 2020,
+        "temperatureMin": "25.8",
+        "temperatureMax": "26.4"
+      },
+      {
+        "year": 2021,
+        "temperatureMin": "24.8",
+        "temperatureMax": "25.9"
+      }
+    ],
+    "windUnit": "m/s",
+    "annualWindAverageList": [
+      {
+        "year": 2005,
+        "speed": "1.2"
+      },
+      {
+        "year": 2006,
+        "speed": "1.2"
+      },
+      {
+        "year": 2007,
+        "speed": "1.1"
+      },
+      {
+        "year": 2008,
+        "speed": "1.3"
+      },
+      {
+        "year": 2009,
+        "speed": "1.5"
+      },
+      {
+        "year": 2010,
+        "speed": "1.4"
+      },
+      {
+        "year": 2011,
+        "speed": "1.4"
+      },
+      {
+        "year": 2012,
+        "speed": "1.3"
+      },
+      {
+        "year": 2013,
+        "speed": "1.3"
+      },
+      {
+        "year": 2014,
+        "speed": "1.5"
+      },
+      {
+        "year": 2015,
+        "speed": "1.7"
+      },
+      {
+        "year": 2016,
+        "speed": "1.5"
+      },
+      {
+        "year": 2017,
+        "speed": "1.5"
+      },
+      {
+        "year": 2018,
+        "speed": "1.1"
+      },
+      {
+        "year": 2019,
+        "speed": "1.6"
+      },
+      {
+        "year": 2020,
+        "speed": "1.4"
+      },
+      {
+        "year": 2021,
+        "speed": "1"
+      }
+    ],
+    "rainMaxAverage": "120",
+    "seismicArea": "3.6",
+    "airQuality": "29.9",
+    "tornados": true,
+    "hurricanArea": true,
+    "tropicalStorm": true,
+    "lakeOrRiverNearby": true,
+    "seaNearby": true,
+    "location": {
+      "forest": false,
+      "urban": true,
+      "industrialCompound": true
+    }
+  },
+  {
+    "id": 4,
+    "town": "Douala",
+    "temperatureUnit": "Celsius",
+    "annualTemperatureAverageList": [
+      {
+        "year": 2001,
+        "temperatureMin": "24.2",
+        "temperatureMax": "31.5"
+      },
+      {
+        "year": 2002,
+        "temperatureMin": "22.3",
+        "temperatureMax": "29.3"
+      },
+      {
+        "year": 2003,
+        "temperatureMin": "22.9",
+        "temperatureMax": "27.1"
+      },
+      {
+        "year": 2004,
+        "temperatureMin": "25.8",
+        "temperatureMax": "27.8"
+      },
+      {
+        "year": 2005,
+        "temperatureMin": "23.9",
+        "temperatureMax": "26.6"
+      },
+      {
+        "year": 2006,
+        "temperatureMin": "22.6",
+        "temperatureMax": "30.5"
+      },
+      {
+        "year": 2007,
+        "temperatureMin": "25.1",
+        "temperatureMax": "26.4"
+      },
+      {
+        "year": 2008,
+        "temperatureMin": "26.7",
+        "temperatureMax": "27.1"
+      },
+      {
+        "year": 2009,
+        "temperatureMin": "22.2",
+        "temperatureMax": "31"
+      },
+      {
+        "year": 2010,
+        "temperatureMin": "23.9",
+        "temperatureMax": "30.1"
+      },
+      {
+        "year": 2011,
+        "temperatureMin": "24.9",
+        "temperatureMax": "30.3"
+      },
+      {
+        "year": 2012,
+        "temperatureMin": "23.9",
+        "temperatureMax": "27.3"
+      },
+      {
+        "year": 2013,
+        "temperatureMin": "23.4",
+        "temperatureMax": "27"
+      },
+      {
+        "year": 2014,
+        "temperatureMin": "22",
+        "temperatureMax": "31"
+      },
+      {
+        "year": 2015,
+        "temperatureMin": "22.6",
+        "temperatureMax": "28.6"
+      },
+      {
+        "year": 2016,
+        "temperatureMin": "22.5",
+        "temperatureMax": "31.2"
+      },
+      {
+        "year": 2017,
+        "temperatureMin": "24.1",
+        "temperatureMax": "31.6"
+      },
+      {
+        "year": 2018,
+        "temperatureMin": "27.5",
+        "temperatureMax": "29.6"
+      },
+      {
+        "year": 2019,
+        "temperatureMin": "25.5",
+        "temperatureMax": "28.5"
+      },
+      {
+        "year": 2020,
+        "temperatureMin": "25.4",
+        "temperatureMax": "32.7"
+      }
+    ],
+    "windUnit": "m/s",
+    "annualWindAverageList": [
+      {
+        "year": 2000,
+        "speed": "3.3"
+      },
+      {
+        "year": 2001,
+        "speed": "2.9"
+      },
+      {
+        "year": 2002,
+        "speed": "3.1"
+      },
+      {
+        "year": 2003,
+        "speed": "3"
+      },
+      {
+        "year": 2004,
+        "speed": "3"
+      },
+      {
+        "year": 2005,
+        "speed": "3"
+      },
+      {
+        "year": 2006,
+        "speed": "3"
+      },
+      {
+        "year": 2007,
+        "speed": "3.1"
+      },
+      {
+        "year": 2008,
+        "speed": "3"
+      },
+      {
+        "year": 2009,
+        "speed": "3.2"
+      },
+      {
+        "year": 2010,
+        "speed": "3.2"
+      },
+      {
+        "year": 2011,
+        "speed": "3.2"
+      },
+      {
+        "year": 2012,
+        "speed": "3.2"
+      },
+      {
+        "year": 2013,
+        "speed": "3.2"
+      },
+      {
+        "year": 2014,
+        "speed": "3.4"
+      },
+      {
+        "year": 2015,
+        "speed": "3.1"
+      },
+      {
+        "year": 2016,
+        "speed": "3.2"
+      },
+      {
+        "year": 2017,
+        "speed": "2.9"
+      },
+      {
+        "year": 2018,
+        "speed": "3.4"
+      },
+      {
+        "year": 2019,
+        "speed": "2.9"
+      }
+    ],
+    "rainMaxAverage": "697.5",
+    "seismicArea": "5.5",
+    "airQuality": "36",
+    "tornados": false,
+    "hurricanArea": false,
+    "tropicalStorm": false,
+    "lakeOrRiverNearby": true,
+    "seaNearby": true,
+    "location": {
+      "forest": true,
+      "urban": true,
+      "industrialCompound": false
+    }
+  },
+  {
+    "id": 5,
+    "town": "Sydney",
+    "temperatureUnit": "Celsius",
+    "annualTemperatureAverageList": [
+      {
+        "year": 1999,
+        "temperatureMin": "14.4",
+        "temperatureMax": "20"
+      },
+      {
+        "year": 2000,
+        "temperatureMin": "11",
+        "temperatureMax": "17"
+      },
+      {
+        "year": 2001,
+        "temperatureMin": "15.3",
+        "temperatureMax": "21"
+      },
+      {
+        "year": 2002,
+        "temperatureMin": "15.5",
+        "temperatureMax": "21.3"
+      },
+      {
+        "year": 2003,
+        "temperatureMin": "15.4",
+        "temperatureMax": "20.8"
+      },
+      {
+        "year": 2004,
+        "temperatureMin": "15.5",
+        "temperatureMax": "21.3"
+      },
+      {
+        "year": 2005,
+        "temperatureMin": "15.8",
+        "temperatureMax": "21.5"
+      },
+      {
+        "year": 2006,
+        "temperatureMin": "15.5",
+        "temperatureMax": "21.4"
+      },
+      {
+        "year": 2010,
+        "temperatureMin": "15.2",
+        "temperatureMax": "20.5"
+      },
+      {
+        "year": 2011,
+        "temperatureMin": "15.5",
+        "temperatureMax": "20.9"
+      },
+      {
+        "year": 2012,
+        "temperatureMin": "15.1",
+        "temperatureMax": "20.6"
+      },
+      {
+        "year": 2013,
+        "temperatureMin": "15.8",
+        "temperatureMax": "21.7"
+      },
+      {
+        "year": 2014,
+        "temperatureMin": "15.9",
+        "temperatureMax": "21.3"
+      },
+      {
+        "year": 2015,
+        "temperatureMin": "15.7",
+        "temperatureMax": "21.2"
+      },
+      {
+        "year": 2016,
+        "temperatureMin": "16.2",
+        "temperatureMax": "21.8"
+      },
+      {
+        "year": 2017,
+        "temperatureMin": "15.9",
+        "temperatureMax": "21.7"
+      },
+      {
+        "year": 2018,
+        "temperatureMin": "15.8",
+        "temperatureMax": "21.3"
+      },
+      {
+        "year": 2019,
+        "temperatureMin": "15.8",
+        "temperatureMax": "21.9"
+      },
+      {
+        "year": 2020,
+        "temperatureMin": "15.9",
+        "temperatureMax": "21.5"
+      },
+      {
+        "year": 2021,
+        "temperatureMin": "15.4",
+        "temperatureMax": "20.9"
+      }
+    ],
+    "windUnit": "m/s",
+    "annualWindAverageList": [
+      {
+        "year": 2017,
+        "speed": "4.8"
+      },
+      {
+        "year": 2018,
+        "speed": "5.8"
+      },
+      {
+        "year": 2019,
+        "speed": "4.3"
+      },
+      {
+        "year": 2020,
+        "speed": "4.7"
+      },
+      {
+        "year": 2021,
+        "speed": "4.9"
+      }
+    ],
+    "rainMaxAverage": "150",
+    "seismicArea": "5.5",
+    "airQuality": "24",
+    "tornados": false,
+    "hurricanArea": false,
+    "tropicalStorm": false,
+    "lakeOrRiverNearby": true,
+    "seaNearby": true,
+    "location": {
+      "forest": true,
+      "urban": true,
+      "industrialCompound": true
+    }
+  }
+]
