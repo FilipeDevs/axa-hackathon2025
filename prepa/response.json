@@ -1,0 +1,49 @@
+{
+	"id": null,
+	"teamName": "pasteque",
+	"version": 0,
+	"clientIpAddress": null,
+	"port": null,
+	"teamMemberOneName": "Abdessamad Sabbouri",
+	"teamMemberOneRole": "Software Engineer",
+	"teamMemberTwoName": "Filipe Pereirra Martins",
+	"teamMemberTwoRole": "Software Engineer",
+	"teamMemberThreeName": "Alexandra Messina",
+	"teamMemberThreeRole": "Business Analyst",
+	"teamMemberFourName": "Zakari Sadoune",
+	"teamMemberFourRole": "Business Analyst",
+	"teamMemberFiveName": "Julien Pollart",
+	"teamMemberFiveRole": "Software Engineer",
+	"teamUUID": "c7deec0b-c680-4315-a85c-a5c30a2b2b82",
+	"createdAt": null,
+	"updatedAt": null,
+	"progression": 1,
+	"stage1": true,
+	"stage2": false,
+	"stage3": false,
+	"stage4": false,
+	"stage5": false,
+	"stage6": false,
+	"clientSatisfactionList": [
+		{
+			"clientId": 1,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 2,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 3,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 4,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 5,
+			"satisfaction": 50
+		}
+	]
+}
