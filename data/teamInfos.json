@@ -1,0 +1,49 @@
+{
+	"id": null,
+	"teamName": "watermelon",
+	"version": 0,
+	"clientIpAddress": null,
+	"port": null,
+	"teamMemberOneName": "Abdessamad Sabbouri",
+	"teamMemberOneRole": "Software Engineer",
+	"teamMemberTwoName": "Filipe Pereirra Martins",
+	"teamMemberTwoRole": "Software Engineer",
+	"teamMemberThreeName": "Alexandra Messina",
+	"teamMemberThreeRole": "Business Analyst",
+	"teamMemberFourName": "Zakari Sadoune",
+	"teamMemberFourRole": "Business Analyst",
+	"teamMemberFiveName": "Julien Pollart",
+	"teamMemberFiveRole": "Software Engineer",
+	"teamUUID": "5103fe9d-aac9-4027-adf8-1f9a9ffddffd",
+	"createdAt": null,
+	"updatedAt": null,
+	"progression": 1,
+	"stage1": true,
+	"stage2": false,
+	"stage3": false,
+	"stage4": false,
+	"stage5": false,
+	"stage6": false,
+	"clientSatisfactionList": [
+		{
+			"clientId": 1,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 2,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 3,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 4,
+			"satisfaction": 50
+		},
+		{
+			"clientId": 5,
+			"satisfaction": 50
+		}
+	]
+}
