@@ -13,6 +13,10 @@ def get_token():
         token = response.json().get('hash')
         print("Token:", token)
         print("Token retrieved successfully.")
+        return
     else:
         print("Failed to retrieve token. Status code:", response.status_code)
+        return
 
+if __name__ == "__main__":
+    get_token()
