@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"firstName": "Jean-Pascal",
+		"lastName": "Vanfleter",
+		"age": 25,
+		"numberChildren": 0,
+		"address": "Place du Trône, 1, Brussels, Belgium"
+	},
+	{
+		"id": 2,
+		"firstName": "Honoka",
+		"lastName": "Akari",
+		"age": 20,
+		"numberChildren": 2,
+		"address": "Kairaku Building (Kotobuki), 2-13, Tokyo, Japan"
+	},
+	{
+		"id": 3,
+		"firstName": "Peter",
+		"lastName": "Williams",
+		"age": 44,
+		"numberChildren": 1,
+		"address": "Fifth Avenue, 24th Floor, New York, United States"
+	},
+	{
+		"id": 4,
+		"firstName": "John",
+		"lastName": "Oumarou",
+		"age": 32,
+		"numberChildren": 3,
+		"address": "Rue Bebey-Eyidi, BP 4068, Douala, Cameroon"
+	},
+	{
+		"id": 5,
+		"firstName": "Michael",
+		"lastName": "Brown",
+		"age": 58,
+		"numberChildren": 0,
+		"address": "George Street, 255, Sydney, Australia"
+	}
+]
