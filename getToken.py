@@ -5,7 +5,7 @@ import requests
 
 def get_token():
     url = "http://hackathon2025-prod-env.eba-sa8j9hq2.eu-central-1.elasticbeanstalk.com"
-    endpoint = "/api/security/token/b81ddf31-c627-4f18-b67e-043aba294249"
+    endpoint = "/api/security/token/5103fe9d-aac9-4027-adf8-1f9a9ffddffd"
     token = None
 
     headers = {"accept": "application/json"}
